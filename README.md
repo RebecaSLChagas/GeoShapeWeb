@@ -178,12 +178,7 @@ geometria-web/
 
 Link para acesso publico da aplicacao:
 
-`[Inserir link do deploy aqui]`
-
-Exemplo:
-
-`https://seu-projeto.vercel.app`
-
+https://geo-shape-o1vfcwlco-rebecaslchagas-7602s-projects.vercel.app
 
 ## Observacao
 
