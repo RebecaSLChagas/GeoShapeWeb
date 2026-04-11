@@ -109,37 +109,47 @@ Analisa o codigo com ESLint.
 
 ```text
 geometria-web/
-├── public/
-├── src/
-│   ├── api/
-│   │   ├── colorApi.js
-│   │   └── mathApi.js
-│   ├── assets/
-│   │   ├── hero.png
-│   │   ├── react.svg
-│   │   └── vite.svg
-│   ├── components/
-│   │   ├── ColorPalette.jsx
-│   │   ├── Footer.jsx
-│   │   ├── Navbar.jsx
-│   │   ├── ShapeCard.jsx
-│   │   └── ShapePreview.jsx
-│   ├── data/
-│   │   └── shapes.js
-│   ├── layout/
-│   │   └── MainLayout.jsx
-│   ├── pages/
-│   │   ├── Compare.jsx
-│   │   ├── Home.jsx
-│   │   ├── NotFound.jsx
-│   │   ├── ShapeDetails.jsx
-│   │   └── Shapes.jsx
-│   ├── App.jsx
-│   ├── index.css
-│   ├── main.jsx
-│   └── router.jsx
-├── package.json
-└── README.md
+|-- docs/
+|   `-- prints/
+|       |-- comparacao.png
+|       |-- detalhes-da-forma.png
+|       |-- home.png
+|       |-- lista-de-formas.png
+|       `-- mermaid-diagram.png
+|-- public/
+|-- src/
+|   |-- api/
+|   |   |-- colorApi.js
+|   |   `-- mathApi.js
+|   |-- assets/
+|   |   |-- hero.png
+|   |   |-- react.svg
+|   |   `-- vite.svg
+|   |-- components/
+|   |   |-- ColorPalette.jsx
+|   |   |-- Footer.jsx
+|   |   |-- Navbar.jsx
+|   |   |-- ShapeCard.jsx
+|   |   `-- ShapePreview.jsx
+|   |-- data/
+|   |   `-- shapes.js
+|   |-- layout/
+|   |   `-- MainLayout.jsx
+|   |-- pages/
+|   |   |-- Compare.jsx
+|   |   |-- Home.jsx
+|   |   |-- NotFound.jsx
+|   |   |-- ShapeDetails.jsx
+|   |   `-- Shapes.jsx
+|   |-- App.jsx
+|   |-- index.css
+|   |-- main.jsx
+|   `-- router.jsx
+|-- index.html
+|-- package.json
+|-- README.md
+|-- vercel.json
+`-- vite.config.js
 ```
 
 ## Diagrama de Arquitetura
@@ -173,6 +183,7 @@ Link para acesso publico da aplicacao:
 Exemplo:
 
 `https://seu-projeto.vercel.app`
+
 
 ## Observacao
 
