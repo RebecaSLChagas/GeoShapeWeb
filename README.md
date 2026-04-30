@@ -178,7 +178,7 @@ geometria-web/
 
 Link para acesso publico da aplicacao:
 
-https://geo-shape-o1vfcwlco-rebecaslchagas-7602s-projects.vercel.app
+https://geo-shape-web.vercel.app
 
 ## Observacao
 
